@@ -10,7 +10,7 @@
   "dependencies": {
     "axios": "^0.19.2",
     "musicbrainz-api": "^0.5.2",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "sinon": "^9.0.0",
     "source-map-support": "^0.5.10",
     "ts-mock-imports": "^1.2.6"
